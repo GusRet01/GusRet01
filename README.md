@@ -6,4 +6,15 @@ Estoy en una etapa de aprendizaje para comenzar a crear proyectos como Full-Stac
 
 ## Aptitudes Técnicas
 
-HTML CSS JavaScript PostgreSQL MongoDB Node.Js Express.Js React.Js React Native Redux Docker
+HTML
+CSS 
+JavaScript 
+PostgreSQL 
+MongoDB 
+Node.Js 
+Express.Js 
+React.Js 
+React 
+Native 
+Redux 
+Docker
