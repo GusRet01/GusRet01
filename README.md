@@ -1,12 +1,12 @@
-## Hola 
+## Hola 👋
 
-Mi nombre es Gustavo, apasionado por la tecnología. 
+* Mi nombre es Gustavo, apasionado por la tecnología y por emprender nuevos caminos.
 
-Estoy en una etapa de aprendizaje para comenzar a crear proyectos como Full-Stack Developer.
+* Egresado como Full-Stack Developer estoy en una etapa de crear nuevos proyectos para compartirlo con ustedes!
 
 ## Aptitudes Técnicas
 
-* HTML
+* HTML 
 * CSS 
 * JavaScript 
 * PostgreSQL 
@@ -14,7 +14,21 @@ Estoy en una etapa de aprendizaje para comenzar a crear proyectos como Full-Stac
 * Node.Js 
 * Express.Js 
 * React.Js 
-* React 
-* Native 
+* React Native 
 * Redux 
 * Docker
+* Linux
+* Bootstrap
+* Sass
+
+## Otras Aptitudes
+
+* Trabajo en equipo
+* Pair programming
+* SCRUM
+* Desarrollo de ideas
+
+
+## Pronto habrá contenido
+
+Gracias por tu visita.
