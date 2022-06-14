@@ -29,6 +29,6 @@
 * Desarrollo de ideas
 
 
-## Pronto habrá contenido
+## Pronto habrá más contenido
 
 Gracias por tu visita.
