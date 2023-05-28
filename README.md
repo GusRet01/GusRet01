@@ -2,7 +2,7 @@
 
 * Mi nombre es Gustavo, apasionado por la tecnología y por emprender nuevos caminos.
 
-* Egresado como Full-Stack Developer estoy en una etapa de crear nuevos proyectos para compartirlo con ustedes!
+* Soy Full-Stack Developer y estoy en una etapa de crear nuevos proyectos para compartirlo con ustedes!
 
 ## Aptitudes Técnicas
 
@@ -20,6 +20,10 @@
 * Linux
 * Bootstrap
 * Sass
+* Expo
+* Figma
+* Firebase
+* Bitbucket
 
 ## Otras Aptitudes
 
