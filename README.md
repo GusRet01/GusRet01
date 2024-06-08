@@ -1,8 +1,6 @@
 ## Hola 👋
 
-* Mi nombre es Gustavo, apasionado por la tecnología y por emprender nuevos caminos.
-
-* Soy Full-Stack Developer y estoy en una etapa de crear nuevos proyectos para compartirlo con ustedes!
+* Mi nombre es Gustavo, soy Full-Stack Developer,apasionado por la tecnología y por emprender nuevos caminos.
 
 ## Aptitudes Técnicas
 
@@ -24,6 +22,9 @@
 * Figma
 * Firebase
 * Bitbucket
+* Tailwind
+* Play Store
+* App Store
 
 ## Otras Aptitudes
 
@@ -31,8 +32,5 @@
 * Pair programming
 * SCRUM
 * Desarrollo de ideas
-
-
-## Pronto habrá más contenido
 
 Gracias por tu visita.
